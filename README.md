@@ -27,7 +27,9 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/2971d266-de76-404e-be62-a31d39762c21)
-4./> Generated hash codes can be easily copied by either double-clicking anywhere inside the box or by clicking once and pressing Ctrl + A followed by Ctrl + C.
+4./> Generated hash codes can be easily copied by either:
+- Double-clicking anywhere inside the box.
+- Clicking once and pressing Ctrl + A followed by Ctrl + C.
 - You can generate another file's hash code by simply clicking the "TRY ANOTHER BLOOD?" button.
 
 _____________________________________________________________________________________________________________________________
