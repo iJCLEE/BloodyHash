@@ -33,6 +33,7 @@ ________________________________________________________________________________
 - You can generate another file's hash code by simply clicking the "TRY ANOTHER BLOOD?" button.
 
 _____________________________________________________________________________________________________________________________
-That's it! It's easier than you think. Enjoy!
+That's it! 
+- It's easier than you think. Enjoy!
 
 
