@@ -1,7 +1,7 @@
 ./> "BloodyHash" is my creation, a hash generator. 
 
-Q: Why is it called BloodyHash?
-A: Because a file is akin to a blood sample: it either matches or does not match. 
+- Q: Why is it called BloodyHash?
+- A: Because a file is akin to a blood sample: it either matches or does not match. 
 - Therefore, I designed this tool as both an art piece and a hash generator.
 
 
