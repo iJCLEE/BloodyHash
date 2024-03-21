@@ -23,7 +23,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/a6a90377-4883-408b-8d06-3025ae9d864d)
 3./> If your file size is large, just wait until it reaches 100%. 
-NOTE: If you click on another app or screen and it appears to be stuck, dont worry because it's saving your computer resources, and the file will load eventually.
+- NOTE: If you click on another app or screen and it appears to be stuck, dont worry because it's saving your computer resources, and the file will load eventually.
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/2971d266-de76-404e-be62-a31d39762c21)
