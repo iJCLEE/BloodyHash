@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/2af2a293-4987-45ea-a57e-d4313064e9f0)
 
 ./> NOTE: "BloodyHash.exe" requires "blood.ico" as a key to run. 
-> Please ensure that "blood.ico" is located in the same folder as "BloodyHash.exe".
+- Please ensure that "blood.ico" is located in the same folder as "BloodyHash.exe".
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/d7682eeb-a59c-43d8-8472-31870d2a8d07)
