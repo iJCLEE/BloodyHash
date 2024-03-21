@@ -1,4 +1,4 @@
-./> "BloodyHash" is my creation, a hash generator. 
+./> "Bloody Hash" is my creation, a hash generator. 
 
 - Q: Why is it called BloodyHash?
 - A: Because a file is akin to a blood sample: it either matches or does not match. 
