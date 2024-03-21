@@ -28,7 +28,7 @@ NOTE: If you click on another app or screen and it appears to be stuck, dont wor
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/BloodyHash/assets/61095429/2971d266-de76-404e-be62-a31d39762c21)
 4./> Generated hash codes can be easily copied by either double-clicking anywhere inside the box or by clicking once and pressing Ctrl + A followed by Ctrl + C.
-- You can generate another file's hash code by simply clicking the "TRY ANOTHER FILE?" button.
+- You can generate another file's hash code by simply clicking the "TRY ANOTHER BLOOD?" button.
 
 _____________________________________________________________________________________________________________________________
 That's it! It's easier than you think. Enjoy!
